@@ -1,0 +1,9 @@
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/home/jlira/trab/netcore/udmycore/aula45/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
